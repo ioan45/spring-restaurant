@@ -15,7 +15,7 @@
 
 ## MVP features
 
-1. The API should allow the adding, editing and viewing of client personal information (first name, last name, email, phone number).
+1. The API should allow the adding/editing of client personal information (first name, last name, email, phone number).
 2. There should be an endpoint that allows the removing/adding of new client orders for the available menu items. Also, there should be one that returns the orders made by a given client.
 3. The API should provide an endpoint for adding special event reservations. It should check if the specified day is already occupied or not.
 4. It should be possible to add/remove items to the menu. The item's ingredients list should be specified when added.
